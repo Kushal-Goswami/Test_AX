@@ -77,7 +77,7 @@ body {
 }
 
 
-.nav {
+/* .nav {
 	position: absolute;
 	top: 6%;
 	left: 50%;
@@ -87,7 +87,7 @@ body {
 	display: flex;
 	color: white;
 	width: 93%;
-}
+} */
 
 li {
 	list-style-type: none;
@@ -226,3 +226,4 @@ a:hover {
 .footer-para{
     color: white;
 }
+
